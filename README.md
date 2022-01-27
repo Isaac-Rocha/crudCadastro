@@ -41,4 +41,4 @@ o Caso haja alguma particularidade de implementação, instruções para execuç
 	● usado programa Postman pra relação API e Banco de Dados
 	Ger, Put, Post, Delete
 	URLs como /cliente
-		  /vedendor
+		  /vendedor
