@@ -39,6 +39,6 @@ o Banco relacional:
 o A API segue os padrões REST na construção das rotas e retornos.
 o Caso haja alguma particularidade de implementação, instruções para execução do projeto deverão ser enviadas.
 	● usado programa Postman pra relação API e Banco de Dados
-	Ger, Put, Post, Delete
+	Get, Put, Post, Delete
 	URLs como /cliente
 		  /vendedor
