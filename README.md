@@ -12,7 +12,7 @@ Cadastro
     repositories
     resources
     
-    FUNCIONALIDADES:
+Funcionalidades:   
 ○ Vendedor:
 ■ Cadastro
 ■ Edição
