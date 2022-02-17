@@ -37,8 +37,8 @@ o Implementada operações no banco de dados utilizando Spring Data JPA & Hibern
 o Banco relacional:
 ▪ PostgreSQL.
 o A API segue os padrões REST na construção das rotas e retornos.
-o Caso haja alguma particularidade de implementação, instruções para execução do projeto deverão ser enviadas.
-	● usado programa Postman pra relação API e Banco de Dados
+
+● usado programa Postman pra relação API e Banco de Dados
 	Get, Put, Post, Delete
 	URLs como /cliente
 		  /vendedor
